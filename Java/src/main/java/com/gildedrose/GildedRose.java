@@ -1,5 +1,6 @@
 package com.gildedrose;
 
+@Deprecated
 class GildedRose {
     Item[] items;
 
